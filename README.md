@@ -1,15 +1,8 @@
 # Hi, I'm Sriraksha 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=28&
-    pause=1000&
-    color=00BFFF&
-    center=true&
-    vCenter=true&
-    width=500&
-    lines=Backend+Developer;Node.js+%7C+Express.js;REST+API+Designer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express.js;REST+API+Designer;Full+Stack+Developer" />
 </p>
+
 
 🎓 CSE Student | Aspiring Full Stack Developer  
 💻 Backend-focused | Learning by building projects  
