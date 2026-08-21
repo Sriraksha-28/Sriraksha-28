@@ -117,14 +117,6 @@ real-world software projects.
 * 📚 Learning through hands-on development
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-rho-11.vercel.app/api/top-langs/?username=Sriraksha-28&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
 
 
 ## 🌐 Connect With Me
