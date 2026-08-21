@@ -41,28 +41,6 @@ backend systems**.
 * 🔹 Software security and secure development
 * 🔹 Learning through real-world projects and open-source collaboration
 
----
-
-## 🧠 Core Expertise
-
-### ⚙️ Backend Development
-
-* Node.js
-* Express.js
-* RESTful APIs
-* Authentication & Authorization
-* Database Design & Integration
-* Backend Logic & Performance
-
-### 🎨 Frontend Development
-
-* React.js
-* Next.js
-* Tailwind CSS
-* Frontend ↔ Backend Integration
-* Responsive Web Development
-
----
 
 ## 🛠️ Tech Stack
 
