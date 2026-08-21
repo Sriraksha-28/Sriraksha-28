@@ -27,42 +27,20 @@
 ## 👩‍💻 About Me
 
 I'm a **Computer Science Engineering student** interested in building
-practical and scalable software through hands-on development.
+practical software through hands-on development.
 
 I enjoy working across the stack — from designing backend APIs and
 databases to integrating modern frontend applications. I'm also
 exploring **AI-powered applications, software security, and scalable
 backend systems**.
 
-- 🔹 Backend-first full-stack development
-- 🔹 REST API design and database integration
-- 🔹 Data Structures & Algorithms with Java
-- 🔹 AI-powered application development
-- 🔹 Software security and secure development
-- 🔹 Learning through real-world projects and open-source collaboration
+* 🔹 Backend-first full-stack development
+* 🔹 REST API design and database integration
+* 🔹 Data Structures & Algorithms with Java
+* 🔹 AI-powered application development
+* 🔹 Software security and secure development
+* 🔹 Learning through real-world projects and open-source collaboration
 
----
-
-## 🧠 Core Expertise
-
-### ⚙️ Backend Development
-
-- Node.js
-- Express.js
-- RESTful API Design
-- Authentication & Authorization
-- Database Design & Integration
-- Backend Logic & Performance
-
-### 🎨 Frontend Development
-
-- React.js
-- Next.js
-- Tailwind CSS
-- Frontend ↔ Backend Integration
-- Responsive Web Development
-
----
 
 ## 🛠️ Tech Stack
 
@@ -126,69 +104,21 @@ backend systems**.
 
 ---
 
-## 🌱 Currently Learning
-
-I'm continuously expanding my development skills with a focus on
-**problem solving, backend engineering, AI, and secure software
-development**.
-
-| Area | Current Focus |
-|---|---|
-| 🧠 **DSA & Problem Solving** | Arrays, Strings, Sorting, Binary Search, Linked Lists and core DSA patterns using Java |
-| ☕ **Java** | Strengthening Java fundamentals and applying them to problem solving |
-| 🏗️ **Backend Engineering** | API design, database integration, authentication and scalable backend architecture |
-| 🤖 **AI Engineering** | AI-powered applications, LLM integration and agentic workflows |
-| 🔐 **Software Security** | Secure development practices and software supply-chain security |
-| 🌐 **Full-Stack Development** | Building and integrating modern frontend and backend systems |
-
----
 
 ## 🌍 Open Source & Collaboration
 
-I use open-source development as a way to strengthen my engineering
-skills through **real-world collaboration, code changes, and
-problem solving**.
+I enjoy learning through collaboration and contributing to
+real-world software projects.
 
-### 🤝 What I Work On
-
-- 🔧 **Pull Requests** — Implementing features, fixes, and improvements
-- 🐛 **Issues** — Identifying problems and contributing solutions
-- 🔄 **Git Workflows** — Working with branches, commits, reviews, and merges
-- 🧩 **Integration** — Working across frontend, backend, and database layers
-- 🔍 **Code Quality** — Improving existing implementations and fixing issues
-- 🌱 **Continuous Learning** — Learning from real-world codebases and developer collaboration
-
-### 💻 Open Source Experience
-
-Currently building experience through contributions involving:
-
-- Frontend and backend integration
-- Database-related development
-- Feature implementation
-- Bug fixes and issue resolution
-- Pull request workflows
-- Collaborative software development
+* 🔧 Working with Git branches and pull requests
+* 🐛 Creating and resolving GitHub issues
+* 🔍 Reviewing and improving code
+* 🤝 Collaborating on open-source projects
+* 📚 Learning through hands-on development
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriraksha-28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriraksha-28&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 💡 Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve**
-
-I believe the strongest way to grow as a developer is through
-consistent problem solving, hands-on projects, collaboration,
-and continuous improvement.
-
----
 
 ## 🌐 Connect With Me
 
@@ -196,11 +126,9 @@ and continuous improvement.
   <a href="https://srirakshaportfolio.lovable.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4FC3F7?style=for-the-badge" />
   </a>
-
-  <a href="https://linkedin.com/in/sriraksha-poojari-15515737a">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
   </a>
-
   <a href="mailto:sriraksha2818@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
   </a>
@@ -211,3 +139,8 @@ and continuous improvement.
 <p align="center">
   ⭐ <i>Always learning. Always building. Always improving.</i>
 </p>
+```
+
+
+
+
