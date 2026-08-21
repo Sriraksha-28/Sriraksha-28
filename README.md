@@ -189,36 +189,4 @@ and curiosity are the best ways to grow as a developer.
 </p>
 ```
 
-### Why I prefer this version
 
-The biggest improvement is the **Tech Stack organization**:
-
-**Languages**
-Java • JavaScript • Python • C++
-
-**Frontend / Backend**
-React • Next.js • Tailwind • Node • Express • FastAPI • REST APIs
-
-**Databases / Blockchain**
-MongoDB • PostgreSQL • Firebase • Ethereum • Ethers.js • Web3.js • Smart Contracts • MetaMask
-
-**AI / ML / Agents**
-LangChain • LangGraph • n8n • Scikit-learn • NLP • Pandas • NumPy • Gemini API
-
-**Tools & Cloud**
-Git • GitHub • Docker • Azure • Vercel • Railway
-
-That matches the technologies you've shown me and gives the profile a much more **structured professional feel**.
-
-### One thing I'd change later
-
-I intentionally **didn't include your projects** here because you specifically asked to remove the Featured Projects section.
-
-Your projects will still appear naturally through your **pinned repositories below the README**, which is actually a better separation:
-
-**README = Who you are + skills + learning + contributions**
-**Pinned repositories = What you've built**
-
-That's cleaner.
-
-Also, before committing this, replace `YOUR_LINKEDIN_URL` with your actual LinkedIn URL. Your portfolio URL and email are already filled in.
