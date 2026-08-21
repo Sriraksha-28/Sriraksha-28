@@ -8,7 +8,7 @@
   <a href="https://srirakshaportfolio.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4FC3F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/sriraksha-poojari-15515737a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sriraksha2818@gmail.com">
