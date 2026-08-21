@@ -121,10 +121,6 @@ real-world software projects.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-rho-11.vercel.app/api?username=Sriraksha-28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
     src="https://github-readme-stats-eight-rho-11.vercel.app/api/top-langs/?username=Sriraksha-28&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
