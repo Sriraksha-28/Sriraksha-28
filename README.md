@@ -138,7 +138,6 @@ real-world software projects.
 <p align="center">
   ⭐ <i>Always learning. Always building. Always improving.</i>
 </p>
-```
 
 
 
