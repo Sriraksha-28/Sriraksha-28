@@ -30,12 +30,12 @@ My primary interest is **backend-focused full-stack development**, where I work 
 
 Currently, I'm:
 
-* 🔭 Building projects involving **AI, backend systems, and software security**
-* 💻 Strengthening my **Data Structures & Algorithms** skills with Java
-* 🧩 Learning to design reliable **REST APIs and data-driven applications**
-* 🤖 Exploring **AI agents, LLM-powered applications, and intelligent workflows**
-* 🔐 Developing an interest in **software supply-chain security and secure development**
-* 🚀 Preparing for **software engineering and internship opportunities**
+- 🔭 Building projects involving **AI, backend systems, and software security**
+- 💻 Strengthening my **Data Structures & Algorithms** skills with Java
+- 🧩 Learning to design reliable **REST APIs and data-driven applications**
+- 🤖 Exploring **AI agents, LLM-powered applications, and intelligent workflows**
+- 🔐 Developing an interest in **software supply-chain security and secure development**
+- 🚀 Preparing for **software engineering and internship opportunities**
 
 ---
 
@@ -139,13 +139,13 @@ A security-oriented project exploring techniques for identifying and analyzing s
 
 ## 📚 Currently Learning
 
-* Data Structures & Algorithms
-* Backend architecture & API design
-* AI/LLM application development
-* Software supply-chain security
-* GIS and intelligent routing
-* Docker and cloud deployment
-* Building production-oriented projects
+- Data Structures & Algorithms
+- Backend architecture & API design
+- AI/LLM application development
+- Software supply-chain security
+- GIS and intelligent routing
+- Docker and cloud deployment
+- Building production-oriented projects
 
 ---
 
